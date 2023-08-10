@@ -1,37 +1,36 @@
 ---
 layout: page
-title: About the Theme
-tags: [about, Jekyll, theme, moon]
-date: 2016-03-21
+title: About Me
+tags: [about, me]
+date: 2023-08-08
 comments: false
 ---
     
-<center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
+<center><b>Software Development master student. Software developer. Ex-Civil Engineer. Music addict.</b></center>
 
-## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
+## Education
 
-## Preview
+### University of Utah, Salt Lake City, UT
+* Master of Software Development (2023)
+### Lehigh University, Bethlehem, PA
+* Master of Science in Civil Engineering
 
-{% capture images %}
-    https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
-    https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
+## More About Me
+
+<!-- {% capture images %}
+    https://upload.wikimedia.org/wikipedia/commons/0/01/Sierra_Nevada_Brewery%2C_Chico%2C_during_blue_hour.jpg
+    https://upload.wikimedia.org/wikipedia/commons/8/80/Pedra_Azul_Milky_Way.jpg
 {% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
+{% include gallery images=images caption="Images" cols=2 %} -->
 
-See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
+I am a current student of the Master of Software Development program at the University of Utah. I am passionate about coding and software engineering in general, and I am interested in developing with Ruby on Rails. I am also curious about functional programming, and I am learning to code in Elixir.
 
-## Getting Started
+Besides these, I also like to learn about computer networking and cloud computing.
 
-To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
+I will graduate in December 2023. I am actively looking for SDE job opportunities starting 2024 in the US.
+
+I am totally hooked on music! As a guitar player, music is my jam and my vibe. [Hit me up on Last.fm](https://www.last.fm/user/jinyizh) if you are a fan too!
+
+<!-- ## Getting Started -->
       
-[Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
+<!-- [button](https://github.com/jinyizh){: .btn} -->

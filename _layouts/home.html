@@ -10,6 +10,7 @@ layout: compress
     {% include head.html %}
 </head>
 <body>
+    <script src="assets/js/jquery-2.2.1.js"></script>
     {% include nav.html %}
     <!-- Header -->
     <header class="header flex" role="banner">
@@ -41,7 +42,12 @@ layout: compress
                          <a class="btn zoombtn" href="{{ site.url }}/projects">
                          Projects
                          </a>
-                 </h3>
+                  </h3>
+                  <hr class="hr-line">
+                  <h3 class="title">
+                        <p style="font-size:1rem;font-weight:300" id="music">{{ site.music_intro }}</br>(data acquired through Last.fm API)</p>
+                        <script type="text/javascript" src="assets/js/music.js"></script>
+                  </h3>
             </div>
         </div>
     </header>
