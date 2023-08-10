@@ -12,6 +12,7 @@ comments: false
 
 ### University of Utah, Salt Lake City, UT
 * Master of Software Development (2023)
+
 ### Lehigh University, Bethlehem, PA
 * Master of Science in Civil Engineering
 
