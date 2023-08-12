@@ -34,6 +34,13 @@ layout: compress
                     {% include social-links.html %}
                   <hr class="hr-line">
                   <h3 class="title">
+                    <p style="font-size:1rem;font-weight:300" id="music">
+                        {{ site.music_intro }}</br>(read through Last.fm API)
+                    </p>
+                    <script type="text/javascript" src="assets/js/music.js"></script>
+                  </h3>
+                  <hr class="hr-line">
+                  <h3 class="title">
                          <a class="btn zoombtn" href="{{ site.url }}/about">
                          About
                          </a>
@@ -43,13 +50,6 @@ layout: compress
                          <a class="btn zoombtn" href="{{ site.url }}/projects">
                          Projects
                          </a>
-                  </h3>
-                  <hr class="hr-line">
-                  <h3 class="title">
-                        <p style="font-size:1rem;font-weight:300" id="music">
-                            {{ site.music_intro }}</br>(data acquired through Last.fm API)
-                        </p>
-                        <script type="text/javascript" src="assets/js/music.js"></script>
                   </h3>
             </div>
         </div>
